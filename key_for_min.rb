@@ -11,5 +11,5 @@ if low_value == 0 || value < low_value
   low_key = key
  end
 end
-low_key
+  low_key
 end
